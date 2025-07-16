@@ -6,9 +6,8 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KYDDD&utm_content=farm">
+<a align= "center" href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KYDDD&utm_content=farm">
 <img
-  align= "center"
   src="https://render.gitanimals.org/farms/KYDDD"
   width="600"
   height="300"
