@@ -5,6 +5,15 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
+    
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KYDDD&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/KYDDD"
+    width="600"
+    height="120"
+  />
+</a>
+  
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
