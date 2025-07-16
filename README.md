@@ -6,12 +6,12 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KYDDD&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/KYDDD"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=KYDDD&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/KYDDD"
+  width="600"
+  height="300"
+/>
 </a>
   <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -26,7 +26,7 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-        <img src="https://img.shields.io/badge/next.js-3578E5?style=for-the-badge&logo=Next.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/next.js-3578E5?style=for-the-badge&logo=Next.js&logoColor=white" />
 
  </div>
     </div>
